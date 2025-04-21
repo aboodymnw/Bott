@@ -1,0 +1,4 @@
+├── bot.py          (الكود الرئيسي)
+├── requirements.txt
+├── Dockerfile
+└── README.md       (اختياري)
