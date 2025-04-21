@@ -16,8 +16,8 @@ from telegram.ext import (
 )
 
 # تعريف المتغيرات الأساسية
-TOKEN = "YOUR_BOT_TOKEN"
-BOT_USERNAME = "@YOUR_BOT_USERNAME"
+TOKEN = "7352787407:AAEyRbUqFBCWdBMGzx71qHo7UrnuoSNjnDE"
+BOT_USERNAME = "@ALAllaaA_bot"
 DATA_FILE = "user_data.json"
 
 # تهيئة بيانات المستخدمين
